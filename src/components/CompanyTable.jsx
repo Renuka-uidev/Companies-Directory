@@ -7,7 +7,7 @@ const CompanyTable = () => {
   const [companyData, setCompanyData] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
   const [searchCompany, setSearchCompany] = useState("");
-  const itemsPerPage = 5;
+  const itemsPerPage = 8;
 
   useEffect(() => {
     fetch("/data.json")
