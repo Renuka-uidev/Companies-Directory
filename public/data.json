@@ -1,0 +1,357 @@
+[
+  
+    {
+      "id": 1,
+      "company_name": "TechNova Solutions",
+      "location": "Bangalore, India",
+      "email": "contact@technova.in",
+      "industry_type": "Software Development"
+    },
+    {
+      "id": 2,
+      "company_name": "GreenEdge Industries",
+      "location": "Pune, India",
+      "email": "info@greenedge.com",
+      "industry_type": "Renewable Energy"
+    },
+    {
+      "id": 3,
+      "company_name": "FinTrak Analytics",
+      "location": "Mumbai, India",
+      "email": "support@fintrak.com",
+      "industry_type": "Finance & Analytics"
+    },
+    {
+      "id": 4,
+      "company_name": "UrbanCraft Builders",
+      "location": "Hyderabad, India",
+      "email": "info@urbancraft.in",
+      "industry_type": "Construction"
+    },
+    {
+      "id": 5,
+      "company_name": "AquaPure Systems",
+      "location": "Chennai, India",
+      "email": "sales@aquapure.com",
+      "industry_type": "Water Purification"
+    },
+    {
+      "id": 6,
+      "company_name": "MediCore Pharma",
+      "location": "Ahmedabad, India",
+      "email": "contact@medicorepharma.in",
+      "industry_type": "Pharmaceuticals"
+    },
+    {
+      "id": 7,
+      "company_name": "EduWave Learning",
+      "location": "Delhi, India",
+      "email": "hello@eduwave.org",
+      "industry_type": "Education Technology"
+    },
+    {
+      "id": 8,
+      "company_name": "BrightPixel Studios",
+      "location": "Kolkata, India",
+      "email": "team@brightpixel.com",
+      "industry_type": "Animation & Media"
+    },
+    {
+      "id": 9,
+      "company_name": "CloudMatrix Solutions",
+      "location": "Noida, India",
+      "email": "support@cloudmatrix.io",
+      "industry_type": "Cloud Computing"
+    },
+    {
+      "id": 10,
+      "company_name": "SmartAgro Technologies",
+      "location": "Nagpur, India",
+      "email": "info@smartagro.in",
+      "industry_type": "AgriTech"
+    },
+    {
+      "id": 11,
+      "company_name": "AutoDrive Motors",
+      "location": "Gurgaon, India",
+      "email": "contact@autodrive.com",
+      "industry_type": "Automotive Manufacturing"
+    },
+    {
+      "id": 12,
+      "company_name": "CyberFort Security",
+      "location": "Bangalore, India",
+      "email": "support@cyberfort.com",
+      "industry_type": "Cybersecurity"
+    },
+    {
+      "id": 13,
+      "company_name": "WellNest Interiors",
+      "location": "Jaipur, India",
+      "email": "info@wellnest.in",
+      "industry_type": "Interior Design"
+    },
+    {
+      "id": 14,
+      "company_name": "DataSprint Analytics",
+      "location": "Chennai, India",
+      "email": "contact@datasprint.io",
+      "industry_type": "Data Science"
+    },
+    {
+      "id": 15,
+      "company_name": "EcoRide Mobility",
+      "location": "Pune, India",
+      "email": "sales@ecoride.com",
+      "industry_type": "Electric Vehicles"
+    },
+    {
+      "id": 16,
+      "company_name": "BluePeak Logistics",
+      "location": "Hyderabad, India",
+      "email": "info@bluepeaklogistics.in",
+      "industry_type": "Logistics & Supply Chain"
+    },
+    {
+      "id": 17,
+      "company_name": "HealthLink Diagnostics",
+      "location": "Lucknow, India",
+      "email": "contact@healthlink.in",
+      "industry_type": "Healthcare"
+    },
+    {
+      "id": 18,
+      "company_name": "InnoSoft Technologies",
+      "location": "Bangalore, India",
+      "email": "hr@innosoft.io",
+      "industry_type": "Software Development"
+    },
+    {
+      "id": 19,
+      "company_name": "FoodZest Pvt Ltd",
+      "location": "Mumbai, India",
+      "email": "orders@foodzest.com",
+      "industry_type": "Food & Beverages"
+    },
+    {
+      "id": 20,
+      "company_name": "Zenith Digital Marketing",
+      "location": "Delhi, India",
+      "email": "marketing@zenithdigital.in",
+      "industry_type": "Marketing & Advertising"
+    },
+        
+    {
+        "id": 21,
+        "company_name": "NovaLabs Research",
+        "location": "Pune, India",
+        "email": "info@novalabs.in",
+        "industry_type": "Research & Development"
+    },
+    {
+        "id": 22,
+        "company_name": "SkyNet Communications",
+        "location": "Chennai, India",
+        "email": "support@skynetcom.in",
+        "industry_type": "Telecommunications"
+    },
+    {
+        "id": 23,
+        "company_name": "AeroLink Systems",
+    "location": "Bangalore, India",
+    "email": "contact@aerolink.com",
+    "industry_type": "Aerospace Engineering"
+    },
+    {
+        "id": 24,
+        "company_name": "PetroCore Energy",
+        "location": "Hyderabad, India",
+        "email": "info@petrocore.in",
+        "industry_type": "Oil & Gas"
+    },
+    {
+        "id": 25,
+        "company_name": "FarmNest Organics",
+        "location": "Indore, India",
+        "email": "sales@farmnest.in",
+        "industry_type": "Organic Farming"
+    },
+    {
+        "id": 26,
+        "company_name": "Alpha Robotics",
+        "location": "Bangalore, India",
+        "email": "info@alpharobotics.io",
+        "industry_type": "Robotics"
+    },
+    {
+        "id": 27,
+        "company_name": "BrightPath Consulting",
+        "location": "Delhi, India",
+        "email": "hello@brightpath.in",
+        "industry_type": "Business Consulting"
+    },
+    {
+        "id": 28,
+        "company_name": "SolarGrid Power",
+        "location": "Ahmedabad, India",
+        "email": "contact@solargrid.in",
+        "industry_type": "Renewable Energy"
+    },
+    {
+        "id": 29,
+        "company_name": "NextGen Retail",
+        "location": "Kolkata, India",
+        "email": "support@nextgenretail.com",
+        "industry_type": "E-Commerce"
+    },
+    {
+        "id": 30,
+        "company_name": "OceanView Resorts",
+        "location": "Goa, India",
+        "email": "info@oceanviewresorts.in",
+        "industry_type": "Hospitality"
+    },
+    {
+        "id": 31,
+        "company_name": "QuickMed Supplies",
+        "location": "Lucknow, India",
+        "email": "sales@quickmed.in",
+        "industry_type": "Medical Equipment"
+    },
+    {
+        "id": 32,
+        "company_name": "DataHive Systems",
+        "location": "Bangalore, India",
+        "email": "team@datahive.io",
+        "industry_type": "Data Warehousing"
+    },
+    {
+        "id": 33,
+        "company_name": "ByteForge Technologies",
+        "location": "Hyderabad, India",
+        "email": "contact@byteforge.in",
+        "industry_type": "Software Development"
+    },
+    {
+        "id": 34,
+        "company_name": "EcoBloom Farms",
+        "location": "Nashik, India",
+        "email": "info@ecobloom.in",
+        "industry_type": "Agriculture"
+    },
+    {
+        "id": 35,
+        "company_name": "SmartBuild Constructions",
+        "location": "Chennai, India",
+        "email": "hello@smartbuild.in",
+        "industry_type": "Civil Engineering"
+    },
+    {
+        "id": 36,
+        "company_name": "PayZen Fintech",
+        "location": "Mumbai, India",
+        "email": "support@payzen.in",
+        "industry_type": "Financial Technology"
+    },
+    {
+        "id": 37,
+        "company_name": "FitPro Nutrition",
+        "location": "Delhi, India",
+        "email": "contact@fitpro.in",
+        "industry_type": "Health & Fitness"
+    },
+    {
+        "id": 38,
+        "company_name": "VisionEdge Cameras",
+        "location": "Bangalore, India",
+        "email": "sales@visionedge.com",
+        "industry_type": "Electronics"
+    },
+    {
+        "id": 39,
+        "company_name": "SoftWave Infotech",
+        "location": "Hyderabad, India",
+        "email": "info@softwave.in",
+        "industry_type": "IT Services"
+    },
+    {
+        "id": 40,
+        "company_name": "EcoWear Textiles",
+        "location": "Surat, India",
+        "email": "contact@ecowear.in",
+        "industry_type": "Textile Manufacturing"
+    },
+    {
+        "id": 41,
+        "company_name": "TechHive Systems",
+        "location": "Bangalore, India",
+        "email": "team@techhive.io",
+        "industry_type": "AI & Machine Learning"
+    },
+    {
+        "id": 42,
+        "company_name": "DriveMax Logistics",
+        "location": "Nagpur, India",
+        "email": "support@drivemax.in",
+        "industry_type": "Transportation"
+    },
+    {
+        "id": 43,
+        "company_name": "SkyLite Interiors",
+        "location": "Jaipur, India",
+        "email": "info@skylite.in",
+        "industry_type": "Architecture & Interior Design"
+    },
+    {
+        "id": 44,
+        "company_name": "WaveConnect Telecom",
+        "location": "Delhi, India",
+        "email": "contact@waveconnect.in",
+        "industry_type": "Telecom"
+    },
+    {
+        "id": 45,
+        "company_name": "MindFuel Learning",
+        "location": "Chandigarh, India",
+        "email": "hello@mindfuel.org",
+        "industry_type": "Education"
+    },
+    {
+        "id": 46,
+        "company_name": "PureLeaf Cosmetics",
+        "location": "Kochi, India",
+        "email": "support@pureleaf.in",
+        "industry_type": "Cosmetics & Skincare"
+    },
+    {
+        "id": 47,
+        "company_name": "RoboWorks Automation",
+        "location": "Pune, India",
+        "email": "info@roboworks.in",
+        "industry_type": "Industrial Automation"
+    },
+    {
+        "id": 48,
+        "company_name": "SmartEdge AI",
+        "location": "Bangalore, India",
+        "email": "team@smartedge.ai",
+        "industry_type": "Artificial Intelligence"
+    },
+    {
+        "id": 49,
+        "company_name": "CleanFlow WaterTech",
+        "location": "Ahmedabad, India",
+        "email": "contact@cleanflow.in",
+        "industry_type": "Water Treatment"
+    },
+    {
+        "id": 50,
+        "company_name": "ZenWorks HR",
+        "location": "Delhi, India",
+        "email": "hr@zenworks.in",
+        "industry_type": "Human Resources"
+    }
+]
+
+  
+
