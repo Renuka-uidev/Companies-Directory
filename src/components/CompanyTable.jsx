@@ -36,6 +36,7 @@ const CompanyTable = () => {
   }, [searchCompany]);
 
   return (
+    <>
     <div className="container mt-4">
       <h4 className="text-center mb-3">Company List</h4>
 
@@ -87,6 +88,7 @@ const CompanyTable = () => {
         <PaginationComponent totalPages={totalPages}  currentPage={currentPage} onPageChange={handlePageChange}/>
       )}
     </div>
+    </>
   );
 };
 
